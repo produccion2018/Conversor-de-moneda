@@ -33,8 +33,8 @@ h1 {
     color: var(--primary-color);
     margin-bottom: 20px;
     text-align: center;
-    font-size: 2.5rem; /* Tamaño más llamativo */
-    font-weight: 700; /* Más peso para destacar */
+    font-size: 2.5rem; 
+    font-weight: 700; 
 }
 
 p {
@@ -42,7 +42,7 @@ p {
     max-width: 500px;
     font-size: 1.1rem;
     margin-bottom: 25px;
-    color: var(--paragraph-color); /* Verde brillante */
+    color: var(--paragraph-color); 
 }
 
 .btn {
